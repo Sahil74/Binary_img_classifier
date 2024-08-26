@@ -30,6 +30,8 @@ The goal is to classify new images into one of these two categories.
 
 ## Model Summary
 
+![Model Summary]('./model summary.png')
+
 ## Conclusion
 
 - This project demonstrates the application of a CNN for binary image classification. The model was able to classify images
