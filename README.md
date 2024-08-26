@@ -30,7 +30,7 @@ The goal is to classify new images into one of these two categories.
 
 ## Model Summary
 
-![Model Summary]('./model summary.png')
+![Model Summary](./model summary.png)
 
 ## Conclusion
 
